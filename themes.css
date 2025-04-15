@@ -1,0 +1,44 @@
+/* style.css */
+
+/* Body background in your desired color (#C1E8FF) */
+body {
+    background-color: #C1E8FF;
+    color: #0f1824;
+    margin: 0;
+    padding: 0;
+    font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+  }
+  
+  /* Cards in white, dark text for contrast */
+  .card {
+    background-color: #ffffff;
+    border: none;
+    color: #0f1824;
+  }
+  .card-header {
+    background-color: #0f1824;
+    color: #C1E8FF;
+  }
+  
+  /* Buttons with your palette colors */
+  .btn-primary {
+    background-color: #7DA0CA;
+    border: none;
+  }
+  .btn-primary:hover {
+    background-color: #5483B3;
+  }
+  .btn-secondary {
+    background-color: #0f1824;
+    color: #C1E8FF;
+    border: none;
+  }
+  .btn-secondary:hover {
+    background-color: #7DA0CA;
+  }
+  
+  /* Table text color for the NSU grading policy card */
+  .table {
+    color: #C1E8FF;
+  }
+  
